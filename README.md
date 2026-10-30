@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Mauro 👋
 
-<!--
-**M4uroM4rcos/M4uroM4rcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Inteligência Artificial e Machine Learning** (Senac DF), em transição da área da saúde para a tecnologia.
 
-Here are some ideas to get you started:
+## Sobre mim
+Tenho base técnica em Administração de Banco de Dados (Senai) e conhecimentos práticos em **Python, MySQL, Shell Script e Excel**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou organizado, atento a detalhes e quero aplicar isso em projetos de dados e IA. **Busco minha primeira oportunidade como trainee** em IA, dados ou banco de dados, onde eu possa aprender e contribuir desde o início.
+
+## Tecnologias
+Python · MySQL · Shell Script · Excel · Git e GitHub
+
+## Estou aprendendo
+- Inteligência Artificial e Machine Learning
+- Git e GitHub
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/mauro-martins-19938b205)
